@@ -1,0 +1,7 @@
+{
+  "name": "Naitik Jain – Class 11 PCM",
+  "description": "Complete offline study-material and note organizer app for Class 11 PCM by Naitik Jain, featuring Physics, Chemistry, Maths chapters, PDF and image viewers, and note management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
